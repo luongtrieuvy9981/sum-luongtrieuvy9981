@@ -1,0 +1,27 @@
+{
+  "name": "sum-luongtrieuvy9981",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-setpass": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luongtrieuvy9981/sum-luongtrieuvy9981"
+  },
+  "homepage": "https://twitter.com/wilcutt_donnie",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "luongtrieuvy9981",
+  "license": "MIT"
+}
